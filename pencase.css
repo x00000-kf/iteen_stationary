@@ -1,0 +1,37 @@
+@charset "utf-8";
+.menu {
+    padding: 90px 0 60px;
+    color: #5a5c5f;
+}
+.menu-card {
+    width: 100%;
+    margin-top: 70px;
+    
+}
+.menu-card-inner {
+    padding: 70px 0px;
+    background-color: #f5f5f5;
+    border-radius: 7px;
+    box-shadow: 1px 1px 4px #d2d4d6;
+    text-align: center;
+    margin: 0 20px;
+    height: 200px;
+}
+.menu-image {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.menu-title {
+    margin-bottom: 8px;
+}
+.menu-text {
+    font-size: 14px;
+}
+.menu-card-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+h2 {
+    text-align: center;
+}
